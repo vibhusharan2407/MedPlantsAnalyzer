@@ -1,7 +1,7 @@
 # MedPlantsAnalyzer  
 !["Web_front"](artefacts/web_front.jpeg)  
 !["Web_out"](artefacts/web_out.jpeg)  
-!["flow"](artefacts/flow.jpeg)
+!["flow"](artefacts/flow.png)
 Medicinal Plant Image Classifier is a state-of-the-art deep learning project designed to transform the identification and classification of medicinal plants. By utilizing the power of advanced convolutional neural networks (CNNs), this project aims to automate and significantly improve the accuracy of medicinal plant identification, supporting vital research in traditional medicine, biodiversity conservation, and pharmaceutical development.MedPlantsAnalyzer is a powerful deep learning system designed to revolutionize the field of medicinal plant identification. Leveraging the capabilities of convolutional neural networks (CNNs), this project offers:
 
 ## Automated and Accurate Identification: 
