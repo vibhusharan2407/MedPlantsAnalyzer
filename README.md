@@ -1,5 +1,5 @@
 # MedPlantsAnalyzer  
-!["Web_front"](Artefacts/web_front.png)  
+!["Web_front"](Artefacts/web_front.jpeg)  
 !["Web_out"](Artefacts/web_out.jpeg)  
 !["flow"](Artefacts/flow.png)  
 
