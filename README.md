@@ -60,7 +60,7 @@ Diverse plant parts (leaves, flowers, stems)
 Images captured under various environmental conditions  
 
 
-#Future Work:
+# Future Work:
 
 Expand the dataset to encompass over 200 medicinal plant species.  
 
